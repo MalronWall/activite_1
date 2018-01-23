@@ -7,6 +7,7 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="default.css">
     <title>Page de test</title
 </head>
 
