@@ -16,5 +16,9 @@
 <header>
 
     <h1><?php Hello($name);?></h1>
+
+    <input type="radio" name="im" value="0"> I'm bad...
+    <br/>
+    <input type="radio" name="im" value="1"> I'm fine thank's !
     
 </header>
